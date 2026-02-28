@@ -4,6 +4,7 @@ on:
   push:
     # branches: [release]
     # branches: [main]
+    # branches: [main]
     branches: [main]
 
 jobs:
